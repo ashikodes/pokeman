@@ -1,0 +1,28 @@
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.search-header {
+  border-bottom: 1px solid pink;
+  min-height: 40px;
+}
+
+.search-header a {
+  float: right;
+}
+
+.search-item {
+  box-shadow: 2px 1px crimson;
+  border: 1px solid tan;
+  margin-bottom: 10px;
+  padding: 5px 10px;
+}
+
+.details .detail-name {
+  color: coral
+}
+
+.details ul {
+  margin-top: 0
+}
